@@ -1,10 +1,10 @@
 /*Assessment Requirements
 
 1. Create a variable that can hold a number of NFT's. What type of variable night this be 
-2. Create an object inside your winthet function that will hold the metadata for your NMTL The metadata values will be passed to the function as parameters, when the Nft is ready. you will store it in the variable you created in step 1
+2. Create an object inside your mintNFT function that will hold the metadata for your NFT The metadata values will be passed to the function as parameters, when the Nft is ready. you will store it in the variable you created in step 1
 
-3. Your listAFTS() function will print all of your NFTs metadata to the console (le. console.log("name: somu.name)) 
-4. For good measure, getTotalSupply() should return the number of it's you have created
+3. Your listNFTS() function will print all of your NFTs metadata to the console (le. console.log("name: somE.name)) 
+4. For good measure, getTotalSupply() should return the number of NFT's you have created
 */
 
 // create a variable to hold your NFT'S
